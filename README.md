@@ -1,4 +1,4 @@
-# Basic Calculator Using HTML and CSS
+# **🧮 Basic Calculator Using HTML and CSS**
 
 ## Overview
 
@@ -6,15 +6,15 @@ This project features a basic calculator implemented with HTML and CSS. It provi
 
 ## Live Demo
 
-Explore the live demo of the basic calculator https://clone-calculator.vercel.app/
+Explore the live demo of the basic calculator ➡️ https://clone-calculator.vercel.app/
 
 ## Features
 
-- **Arithmetic Operations:** The calculator supports addition, subtraction, multiplication, and division, allowing users to perform basic calculations efficiently.
+- **➕ Arithmetic Operations:** The calculator supports addition, subtraction, multiplication, and division, allowing users to perform basic calculations efficiently.
   
-- **Responsive Design:** Designed to be responsive, the calculator layout adjusts dynamically to ensure optimal viewing and interaction across various devices and screen sizes.
+- **📱 Responsive Design:** Designed to be responsive, the calculator layout adjusts dynamically to ensure optimal viewing and interaction across various devices and screen sizes.
   
-- **Error Handling:** The calculator includes error handling mechanisms to handle invalid inputs and prevent calculation errors.
+- **❌ Error Handling:** The calculator includes error handling mechanisms to handle invalid inputs and prevent calculation errors.
 
 ## Usage
 
@@ -32,4 +32,4 @@ The calculator is built using HTML and CSS.
 
 ## Credits
 
-This project is hosted on https://vercel.com/
+This project is hosted on https://vercel.com/ 🌐
